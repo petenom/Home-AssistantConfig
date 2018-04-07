@@ -1,0 +1,15 @@
+'1521349344608':
+  alias: New Script
+  sequence:
+  - data: {}
+    service: persistent_notification.create
+'1521349785615':
+  alias: Turn Off
+  sequence:
+  - event: turn_off
+    event_data: {}
+'1521349814827':
+  alias: turn_on
+  sequence:
+  - event: turn_on
+    event_data: {}

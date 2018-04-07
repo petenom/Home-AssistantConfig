@@ -1,0 +1,131 @@
+  climate:
+    name: Climate
+    view: yes
+    icon: mdi:thermometer-lines
+    entities:
+      - sensor.bedroom_temp
+      - sensor.porch_temp
+      - sensor.bedroom2_temp
+      - sensor.bedroom3_temp
+      - sensor.bedroom4_temp
+      - sensor.familyroom_tempstate
+  living_room:
+    name: Living Room
+    view: yes
+    icon: mdi:sofa
+    entities:
+      - light.living_room
+      - light.living
+      - light.table_lamp
+      - light.ceiling      
+      - light.table_lamp2
+      - light.table_lamp3
+      - sensor.pir1
+      - sensor.pir2
+  kitchen:
+   name: Kitchen
+   view: yes
+   icon: mdi:stove
+   entities:
+    - light.dining
+    - light.overhead
+    - switch.overhead
+    - light.stove
+    - switch.stove
+    - light.desk
+    - switch.desk
+    - light.coffeemaker
+    - switch.coffeemaker
+    - light.dining
+    - light.kitchen
+    - light.kitchen2
+  family_room:
+    name: Family Room
+    view: yes
+    icon: mdi:sofa
+    entities:    
+    - sensor.familyroom_tempstate
+    - light.family
+    - light.family2
+  bedroom:
+    name: Master Bed Room
+    view: yes    
+    icon: mdi:beer
+    entities:    
+    - sensor.bedroom_temp
+  bedroom1:
+    name: Bed Room 1
+    view: yes    
+    icon: mdi:pizza
+    entities:    
+    - sensor.bedroom1_temp
+  bedroom2:
+    name: Bed Room 2
+    view: yes    
+    icon: mdi:emoticon-happy
+    entities:    
+    - sensor.beedroom2_temp    
+  bedroom3:
+    name: Bed Room 3
+    view: yes    
+    icon: mdi:football
+    entities:    
+    - sensor.bedroom3_temp
+### Zones ###    
+  zones:
+    name: Zones
+    entities:
+      - binary_sensor.floorplan    
+  Binary_Sensors:  
+   name: Binary Sensors
+   entities:
+    - binary_sensor.front_hallway
+    - binary_sensor.kitchen
+    - binary_sensor.master_bedroom
+    - binary_sensor.garage
+#### Lights Groupings
+
+  lights:
+   name: Lights
+   view: yes
+   icon: mdi:lightbulb-outline
+   entities:
+     - light.hallway
+     - light.living_room
+     - light.patio
+     - lights.bed1
+     - lights.bed2
+     - lights.bed3
+     - lights.front
+     - lights.living
+     - lights.dining
+     - lights.kitchen
+     - lights.kitchen2
+     - lights.family
+     - lights.family2
+     - lights.bath
+     - lights.bath2
+     - lights.bath3
+ 
+  living_room_lights:
+   name: Living Room Lights
+   view: yes
+   icon: mdi:bluetooth
+   entities:
+    - light.hallway
+    - light.living_room
+    
+  kitchen_lights:
+   name: Kitchen Lights
+   view: yes
+   icon: mdi:fridge
+   entities:    
+    - lights.kitchen
+    - lights.kitchen2
+    
+  garage_lights:
+   name: garage Lights
+   view: yes
+   icon: mdi:garage
+   entities:        
+    

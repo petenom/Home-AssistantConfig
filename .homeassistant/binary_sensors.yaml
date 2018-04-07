@@ -1,0 +1,43 @@
+  - platform: mqtt
+    state_topic: dummy/floorplan/sensor
+    name: Floorplan
+  - platform: mqtt
+    name: Bathroom
+    state_topic: "homeassistant/binary_sensor/bathroom/switch/state"
+    payload_on: "1"
+    payload_off: "0"    
+  - platform: mqtt
+    name: Bedroom
+    state_topic: "homeassistant/binary_sensor/bedroom1/switch/state"
+    payload_on: "1"
+    payload_off: "0" 
+  - platform: mqtt
+    name: Bedroom2
+    state_topic: "homeassistant/binary_sensor/bedroom2/switch/state"
+    payload_on: "1"
+    payload_off: "0" 
+  - platform: mqtt
+    name: Bedroom3
+    state_topic: "homeassistant/binary_sensor/bedroom3/switch/state"
+    payload_on: "1"
+    payload_off: "0"     
+  - platform: mqtt
+    name: garage
+    state_topic: "homeassistant/binary_sensor/garage/state"
+    payload_on: "1"
+    payload_off: "0"   
+  - platform: mqtt
+    name: kitchen
+    state_topic: "homeassistant/binary_sensor/kitchen/state"
+    payload_on: "1"
+    payload_off: "0"     
+  - platform: mqtt
+    name: front hallway
+    state_topic: "homeassistant/binary_sensor/front_hallway/state"
+    payload_on: "1"
+    payload_off: "0"    
+  - platform: mqtt
+    name: master bedroom
+    state_topic: "homeassistant/binary_sensor/master_bedroom/state"
+    payload_on: "1"
+    payload_off: "0"    

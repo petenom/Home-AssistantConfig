@@ -1,0 +1,103 @@
+sun.sun: {}
+group.kitchen:
+  friendly_name: Kitchen
+  order: 2
+sensor.bedroom_temp:
+  friendly_name: Bedroom
+  icon: mdi:kettle
+sensor.porch_temp:
+  friendly_name: Porch Temp
+  icon: mdi:kettle
+sensor.bedroom2_temp:
+  friendly_name: Bedroom 2 Temp
+  icon: mdi:kettle 
+sensor.bedroom3_temp:
+  friendly_name: Bedroom 3 Temp
+  icon: mdi:kettle
+sensor.bedroom4_temp:
+  friendly_name: Bedroom 4 Temp
+  icon: mdi:kettle 
+sensor.familyroom_tempstate: 
+  friendly_name: Family Room Temp
+binary_sensor.floorplan:
+  custom_ui_state_card: state-card-floorplan
+  config: !include floorplan.yaml
+##Lights customizing
+light.living_room:  
+  icon: mdi:ceiling-light
+light.hallway:
+  icon: mdi:ceiling-light           
+light.patio:
+  icon: mdi:ceiling-light
+lights.bed1:
+  icon: mdi:ceiling-light
+lights.bed2:
+  icon: mdi:ceiling-light
+ights.bed3:
+  icon: mdi:ceiling-light
+lights.front:
+   icon: mdi:ceiling-light
+lights.living:
+  icon: mdi:ceiling-light
+lights.dining:
+   icon: mdi:ceiling-light
+lights.kitchen:
+  icon: mdi:ceiling-light
+lights.kitchen2:
+  icon: mdi:ceiling-light 
+lights.family:
+  icon: mdi:ceiling-light
+lights.family2:
+  icon: mdi:ceiling-light
+lights.bath:
+  icon: mdi:ceiling-light
+lights.bath2:
+  icon: mdi:ceiling-light
+lights.bath3:
+  icon: mdi:ceiling-light
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

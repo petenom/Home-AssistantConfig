@@ -1,0 +1,47 @@
+- alias: Trigger alarm while armed away
+  trigger:
+  - platform: state
+    entity_id: sensor.pir1
+    to: active
+  - platform: state
+    entity_id: sensor.pir2
+    to: active
+  - platform: state
+    entity_id: sensor.door
+    to: open
+  - platform: state
+    entity_id: sensor.window
+    to: open
+  condition:
+    - condition: state
+      entity_id: alarm_control_panel.ha_alarm
+      state: armed_away
+  action:
+    service: alarm_control_panel.alarm_trigger
+    entity_id: alarm_control_panel.ha_alarm    
+- alias: Startup Notification
+  trigger:
+    platform: homeassistant
+    event: start
+  action:
+    service: ifttt.trigger
+    data:
+      event: TestHA_Trigger
+      value1: Hello World!
+- alias: Send notification when alarm triggered
+  trigger:
+  - platform: state
+    entity_id: alarm_control_panel.ha_alarm
+    to: triggered
+  action:
+  - service: notify.notify
+    data:
+      message: ALARM! The alarm has been triggered
+
+- action: []
+  alias: Sunset
+  condition: []
+  id: '1522357159299'
+  trigger:
+  - event: sunset
+    platform: sun

@@ -1,0 +1,133 @@
+homeassistant:
+  # Name of the location where Home Assistant is running
+  name: Home
+  # Location required to calculate the time the sun rises and sets
+  latitude: 35.188
+  longitude: -119.2162
+  # Impacts weather/sunrise data (altitude above sea level in meters)
+  elevation: 0
+  # metric for Metric, imperial for Imperial
+  unit_system: imperial
+  # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  time_zone: America/Los_Angeles
+  # Customization file
+  customize: !include customize.yaml
+
+# Show links to resources in log and frontend
+#introduction:
+
+# Enables the frontend
+frontend:
+  extra_html_url:
+    - /local/custom_ui/state-card-floorplan.html
+
+# MQTT Broker setup
+mqtt:
+  broker: 192.168.1.99
+  discovery: true
+  discovery_prefix: homeassistant
+
+# IFTTT Service  Broker info:
+ifttt:
+    key: dlwDnmwxF5-XMd2qJLGyiM
+
+# Enables configuration UI
+config:
+
+http:
+  # Secrets are defined in the file secrets.yaml
+  # api_password: !secret http_password
+  # Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+  # base_url: example.duckdns.org:8123
+
+# Checks for available updates
+# Note: This component will send some information about your system to
+# the developers to assist with development of Home Assistant.
+# For more information, please see:
+# https://home-assistant.io/blog/2016/10/25/explaining-the-updater/
+updater:
+  # Optional, allows Home Assistant developers to focus on popular components.
+  # include_used_components: true
+
+# Discover some devices automatically
+discovery:
+
+# Allows you to issue voice commands from the frontend in enabled browsers
+conversation:
+
+# Enables support for tracking state changes over time
+history:
+
+# View all events in a logbook
+logbook:
+
+# Enables a map showing the location of tracked devices
+map:
+
+# Track the sun
+sun:
+# Alarm Panel setuo
+alarm_control_panel:
+  - platform: manual_mqtt
+    code: 1040
+    state_topic: "home/alarm"
+    command_topic: "home/alarm/set"
+    pending_time: 30
+    delay_time: 20
+    trigger_time: 4
+    disarmed:
+      trigger_time: 0
+    armed_home:
+      pending_time: 0
+      delay_time: 0
+
+# Weather prediction
+sensor: !include sensors.yaml
+
+# Text to speech
+tts:
+  - platform: google
+
+# Cloud
+cloud:
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+light: !include lights.yaml
+switch: !include switches.yaml
+
+binary_sensor: !include binary_sensors.yaml 
+#  - platform: mqtt
+#    state_topic: dummy/floorplan/sensor
+#    name: Floorplan
+#  - platform: mqtt
+#    name: Bathroom
+#    state_topic: "home/bathroom/switch/button"
+#   payload_on: "1"
+#    payload_off: "0"
+
+panel_iframe:
+  configurator:
+    title: Configurator
+    icon: mdi:wrench
+    url: http://192.168.1.99:3218
+panel_custom:
+  - name: floorplan
+    sidebar_title: Floorplan
+    sidebar_icon: mdi:home
+    url_path: floorplan
+    config: !include floorplan.yaml    
+camera:
+  - platform: generic
+    name: hallway
+    still_image_url: https://127.0.0.1:8123/local/nodemcu_pins.png   
+  - platform: generic
+    name: driveway
+    still_image_url: https://127.0.0.1:8123/local/nodemcu_pins.png   
+  - platform: generic
+    name: backyard
+    still_image_url: https://127.0.0.1:8123/local/nodemcu_pins.png   
+  - platform: generic
+    name: front_door
+    still_image_url: https://127.0.0.1:8123/local/nodemcu_pins.png   

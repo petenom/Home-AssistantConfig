@@ -1,0 +1,27 @@
+#####  MQTT Sensor Area
+  - platform: mqtt
+    state_topic: 'homeassistant/sensor/bedroom1'
+    name: "MQTT Bedroom Sensor"
+    unit_of_measurement: '°F'
+    value_template: '{{ value_json.temperature }}'
+  - platform: mqtt
+    state_topic: 'homeassistant/sensor/bedroom1'
+    name: 'Bedroom Humidity'
+    unit_of_measurement: '%'
+    value_template: '{{ value_json.humidity }}'
+  - platform: mqtt
+    state_topic: 'homeassistant/sensor/kitchen'
+    name: "MQTT Kitchen Sensor"
+    unit_of_measurement: '°F'
+    value_template: '{{ value_json.temperature }}'
+  - platform: mqtt
+    state_topic: 'homeassistant/sensor/kitchen'
+    name: 'Kitchen Humidity'
+    unit_of_measurement: '%'
+    value_template: '{{ value_json.humidity }}'
+  - platform: mqtt
+    state_topic: '/dark/temp'
+    name: "dark_sky_temperature"
+    unit_of_measurement: '°F' 
+    value_template: '{{ value_json.temperature }}'
+#### TIME/DATE ##################################

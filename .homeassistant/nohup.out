@@ -1,0 +1,1839 @@
+INFO:2018-03-27 22:08:55,652:__main__:Starting server
+INFO:2018-03-27 22:08:55,653:__main__:Listening on: http://0.0.0.0:3218
+INFO:2018-03-27 22:12:11,245:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:12:12,694:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:12:13,405:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:12:38,950:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:12:40,174:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:12:40,714:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:19:01,594:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:19:03,100:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:19:03,811:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:31:32,737:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:31:32,777:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:32:42,546:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:32:42,572:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:36:22,332:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:36:23,983:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:36:24,579:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:37:16,215:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:37:16,247:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:44:34,220:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:44:34,246:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:47:17,639:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:47:18,175:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:47:33,626:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:47:33,669:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:48:26,856:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:48:52,920:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:48:54,440:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:48:55,060:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:49:33,524:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:49:33,556:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:50:01,443:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:50:03,144:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:50:03,955:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:50:30,567:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:50:30,607:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:51:16,033:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:51:17,527:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:51:18,561:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:51:33,638:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:52:38,060:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:53:32,905:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:53:34,354:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:53:34,937:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:53:56,966:__main__:192.168.1.66 - "GET /api/reload_groups HTTP/1.1" 200 -
+INFO:2018-03-27 22:53:56,967:__main__:/api/reload_groups
+INFO:2018-03-27 22:56:12,647:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:56:21,979:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:56:23,504:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:56:24,024:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:56:45,292:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 22:56:45,325:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 22:57:41,531:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:57:42,976:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:57:43,824:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 22:59:10,089:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 22:59:11,521:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 22:59:12,105:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 23:03:40,339:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 23:03:41,750:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:03:42,460:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 23:06:09,600:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 23:06:11,712:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 23:06:31,168:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:07:30,944:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:07:47,711:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:07:47,753:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:09:15,619:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:09:15,651:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:11:34,446:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:11:34,478:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:13:25,474:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:13:25,504:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:15:08,802:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:15:08,834:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:06,168:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:07,792:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:08,635:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:25,285:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:34,961:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:36,378:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:23:37,246:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-27 23:24:53,349:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-27 23:24:53,410:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-27 23:26:14,533:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+WARNING:2018-03-27 23:26:14,537:__main__:Exception getting bootstrap
+WARNING:2018-03-27 23:26:14,538:__main__:<urlopen error [Errno 111] Connection refused>
+INFO:2018-03-27 23:26:15,827:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-27 23:26:16,498:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 20:49:23,119:__main__:192.168.1.92 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 20:49:29,893:__main__:192.168.1.92 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:15:09,492:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:15:11,164:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:15:11,877:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:21:31,682:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:21:33,112:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:21:33,991:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:22:18,518:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 21:22:18,572:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 21:23:42,559:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:23:43,921:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:23:44,684:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:24,869:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:27,364:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:28,286:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:43,179:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:57,505:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:58,721:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-28 21:26:59,354:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:28:32,679:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:28:34,130:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-28 21:28:34,827:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:10,552:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:11,858:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:12,441:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:27,928:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:47,529:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:48,654:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:34:49,144:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:18,419:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:35,076:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:35,091:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:57,413:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:59,121:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:39:59,790:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:40:20,242:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:40:21,335:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:40:21,879:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:43:37,098:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 21:43:37,149:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 21:48:04,250:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 21:48:04,286:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 21:50:11,379:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:50:14,015:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:50:14,557:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 21:50:55,177:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:51:08,751:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:51:23,904:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 21:51:25,136:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 21:51:25,766:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 22:07:08,317:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 22:07:08,349:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 22:13:19,820:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 22:13:21,219:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 22:13:21,949:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 22:20:29,816:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 22:20:29,847:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 22:35:46,434:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 22:35:48,199:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 22:35:48,849:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:18:30,930:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:18:30,962:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:19,635:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:21,225:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:21,894:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:50,352:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:50,384:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:56,692:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:57,777:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:20:58,331:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:21:56,922:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:21:56,957:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:22:22,181:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:22:29,429:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:22:30,754:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:22:31,384:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:23:03,221:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:23:03,253:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:00,678:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:02,031:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:02,609:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:13,721:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:21,373:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:22,501:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:24:23,049:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:25:30,814:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:25:30,848:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:27:31,656:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:27:31,691:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:28:17,516:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:28:18,801:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:28:19,399:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:30:50,688:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:31:42,177:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:31:43,676:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:31:44,345:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:32:18,486:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:32:18,519:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-28 23:36:23,233:__main__:192.168.1.66 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-28 23:36:25,711:__main__:192.168.1.66 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-28 23:36:26,431:__main__:192.168.1.66 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-28 23:37:17,736:__main__:192.168.1.66 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-28 23:37:17,769:__main__:192.168.1.66 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:13,106:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:16,361:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:34,720:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:34,739:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:42,085:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:44,778:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:27:44,795:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 09:29:29,581:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 09:29:29,620:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:03,911:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:05,306:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:05,665:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:18,976:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:18,994:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:19,032:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:19,054:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:32,363:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:34,335:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 09:32:34,942:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:02:28,437:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 10:02:30,637:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:02:31,006:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:06:00,796:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:06:08,493:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:07:44,221:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 10:07:44,247:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 10:22:39,340:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 10:22:41,270:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:22:41,776:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:25:08,102:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 10:25:09,698:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:25:10,329:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:26:09,862:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 10:26:09,889:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 10:26:39,460:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 10:26:40,873:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:26:41,690:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:32:28,973:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 10:32:31,665:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:32:32,086:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 10:33:04,391:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 10:34:24,182:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 10:34:24,211:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 13:35:36,321:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 13:35:38,635:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 13:35:39,633:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 13:37:19,835:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 13:37:19,878:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 13:40:45,102:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 13:40:46,604:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 13:40:47,209:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 13:51:37,345:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 13:51:39,179:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 13:51:39,641:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 13:53:42,299:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 13:53:42,331:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 13:59:57,607:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 13:59:59,273:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 13:59:59,976:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:00:14,723:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 14:00:19,622:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:02:29,580:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:02:29,647:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:06:02,381:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:06:04,480:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:06:05,540:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:12:36,037:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:12:36,069:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:13:47,362:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:13:47,396:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:14:22,378:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:14:22,399:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:21:44,666:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:21:49,731:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:21:50,716:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:22:15,794:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:22:17,383:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:22:18,072:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:22:41,078:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:26:34,521:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:26:34,591:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:29:08,264:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:29:09,740:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:29:11,255:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:29:53,485:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:30:00,809:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:30:04,255:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:32:39,976:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:32:41,286:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:32:41,968:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:33:50,661:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:33:50,683:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:34:26,720:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:34:28,096:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:34:28,716:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:35:57,769:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:41:55,059:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:42:01,867:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:42:03,170:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:42:04,120:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:49:17,942:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:49:17,970:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:49:27,989:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:49:29,172:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:49:30,020:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:52:31,577:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:52:31,619:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:53:08,276:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:53:10,410:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:53:11,309:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:54:49,846:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 14:54:49,878:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:14,852:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:19,121:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:19,914:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:44,086:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:45,094:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:55:45,963:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:02,639:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:22,549:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:40,423:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:46,987:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:51,055:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:56:54,874:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:57:13,134:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:57:36,579:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:57:37,729:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 14:57:38,451:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 14:57:59,236:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 14:58:14,939:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 14:58:16,091:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 14:58:16,671:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:02:15,190:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:02:17,016:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:02:17,200:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:04:50,104:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:04:51,706:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:04:52,653:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:05:06,128:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:05:13,710:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:05:36,969:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:05:52,864:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 15:10:22,780:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+WARNING:2018-03-29 15:10:22,786:__main__:Exception getting bootstrap
+WARNING:2018-03-29 15:10:22,787:__main__:<urlopen error [Errno 111] Connection refused>
+INFO:2018-03-29 15:10:24,249:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 15:10:25,049:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:33:50,078:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:33:59,844:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 15:34:00,616:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:34:28,588:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:34:29,714:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 15:34:30,370:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:34:47,695:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:35:29,495:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:36:12,653:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 15:36:12,676:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 15:36:33,119:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:36:34,265:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:36:35,061:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:38:01,737:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 15:38:01,765:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 15:44:01,268:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:44:03,170:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:44:03,319:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:44:08,569:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:45:24,453:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:45:25,571:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:45:26,333:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:47:00,686:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 15:47:00,719:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 15:49:48,848:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:49:50,469:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:49:50,725:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:50:14,782:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:50:19,804:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:50:20,991:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:50:21,628:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:50:43,007:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:51:49,887:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 15:51:49,911:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 15:52:14,188:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 15:52:16,730:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 15:52:18,638:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 15:53:04,023:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 15:53:04,047:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 16:55:29,581:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 16:55:31,565:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 16:55:32,085:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 16:57:21,450:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 16:57:21,477:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:18,689:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:20,189:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:20,776:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:36,240:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:40,386:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:41,538:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:06:42,088:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:09:09,579:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:09:09,604:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:09:40,944:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:09:43,252:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:10:11,372:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:13:52,635:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:13:52,661:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:14:11,586:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:14:13,122:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:14:13,975:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:29:49,219:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/deps HTTP/1.1" 200 -
+INFO:2018-03-29 17:30:38,063:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:30:54,312:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:31:01,710:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:34:42,941:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:34:51,820:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:35:01,280:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:35:09,694:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:35:33,848:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:35:33,876:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:35:51,031:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:36:09,873:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:36:11,446:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:36:12,358:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:37:33,940:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:37:33,970:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:38:11,172:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:38:11,201:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:39:39,594:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:39:41,200:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:39:42,003:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:42:20,535:__main__:192.168.1.82 - "POST /api/newfile HTTP/1.1" 200 -
+INFO:2018-03-29 17:42:20,581:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:42:41,605:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:43:22,654:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:43:24,172:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:43:24,841:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:47:46,329:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:47:48,525:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:47:49,306:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:48:08,326:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:48:42,006:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:48:42,041:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:48:57,990:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:48:58,023:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:49:33,209:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:49:34,387:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:49:35,299:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:49:44,786:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:49:44,836:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:04,480:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:05,532:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:06,330:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:31,017:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:49,570:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:50,654:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:50:51,299:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:52:20,739:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:52:20,765:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:52:34,230:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:55:48,152:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:55:48,173:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:56:13,903:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:56:15,203:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:56:16,101:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:57:25,085:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:57:25,110:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:57:57,206:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:57:58,679:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:57:59,780:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:58:10,728:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:58:17,946:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:58:19,046:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:58:19,743:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:00,118:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:00,144:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:34,502:__main__:192.168.1.82 - "POST /api/newfile HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:34,540:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:50,029:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:51,374:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 17:59:52,486:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 18:00:06,650:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 18:00:16,080:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 18:00:17,664:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 18:00:18,340:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 18:01:11,922:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 18:01:11,977:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 18:01:21,333:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 18:01:45,235:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 18:01:45,255:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 18:02:00,332:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 18:02:01,660:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 18:02:02,399:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 18:05:30,527:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 18:05:30,553:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 18:13:13,650:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 18:13:16,581:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 18:13:16,735:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 19:46:30,027:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 19:46:41,699:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 19:46:41,704:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 19:47:21,596:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 19:47:26,525:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 19:47:27,116:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 19:53:00,646:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 19:56:47,230:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 19:56:48,902:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 19:56:49,919:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 19:58:35,646:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 19:58:35,687:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 20:01:36,759:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 20:01:38,292:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:01:39,105:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 20:02:00,052:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 20:02:00,077:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 20:21:17,580:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 20:21:17,605:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 20:21:41,167:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 20:21:42,547:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:21:43,699:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 20:22:11,698:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 20:22:11,723:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 20:22:55,599:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 20:22:57,079:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:22:57,912:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 20:54:29,254:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 20:54:31,052:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:54:31,629:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 20:55:14,792:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:56:05,412:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 20:56:06,787:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 20:56:07,559:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 21:00:36,913:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:00:39,923:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 21:00:40,813:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 21:03:02,502:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:03:03,911:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 21:03:04,745:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 21:03:32,908:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 21:03:32,944:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 21:07:37,969:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:07:40,750:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 21:07:41,435:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 21:08:22,225:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 21:08:22,247:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 21:16:26,147:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:16:40,754:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:24,521:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:25,017:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:26,728:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:27,299:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:54,529:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 21:17:54,555:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 22:41:37,160:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:41:38,725:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:41:39,600:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 22:53:41,343:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:53:42,690:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:53:43,515:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 22:53:58,820:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-29 22:54:06,936:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:54:26,404:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:54:39,615:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:55:00,340:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:55:12,554:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:55:31,275:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:55:58,630:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:55:58,636:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+WARNING:2018-03-29 22:55:58,647:__main__:[Errno 32] Broken pipe
+INFO:2018-03-29 22:56:38,587:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:56:39,096:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:56:41,566:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 22:56:58,075:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:58:56,748:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 22:58:57,927:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 22:58:58,626:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 23:13:21,517:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 23:13:23,317:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:13:24,002:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 23:14:01,588:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:22:18,995:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 23:22:19,025:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-29 23:24:16,047:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 23:24:18,316:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:24:19,330:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 23:26:19,926:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 23:26:21,645:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:26:22,350:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 23:26:47,962:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:28:07,372:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-29 23:28:09,050:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-29 23:28:09,684:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-29 23:28:40,090:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-29 23:28:40,118:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 00:13:43,035:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 00:13:45,871:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 00:13:56,173:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 00:14:13,356:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 00:15:23,589:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 09:50:52,655:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 09:50:53,631:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 09:50:53,838:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 13:25:24,479:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 13:25:25,496:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 13:25:36,334:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 13:31:15,518:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 13:31:16,384:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 13:31:16,517:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 13:39:37,692:__main__:192.168.1.65 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 13:39:37,757:__main__:192.168.1.65 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 13:40:11,350:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 13:40:12,245:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 13:40:12,340:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 13:40:48,649:__main__:192.168.1.65 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 13:40:48,689:__main__:192.168.1.65 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 13:41:25,783:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 13:41:26,978:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 13:41:27,065:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 13:42:17,008:__main__:192.168.1.65 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 13:42:17,059:__main__:192.168.1.65 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 16:20:19,287:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 16:20:20,361:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 16:20:30,531:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 16:21:14,140:__main__:192.168.1.65 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 16:21:14,191:__main__:192.168.1.65 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 16:22:39,031:__main__:192.168.1.65 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 16:22:39,964:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/scripts.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 16:22:40,024:__main__:192.168.1.65 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 16:22:52,082:__main__:192.168.1.65 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 16:23:06,576:__main__:192.168.1.65 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 16:23:06,633:__main__:192.168.1.65 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:12:16,291:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:12:18,597:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:12:19,872:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:12:27,316:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:00,510:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:13,845:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:15,351:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:15,864:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:49,826:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:13:49,859:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:14:43,676:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:14:46,595:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:14:48,445:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:14:49,335:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:15:32,147:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:15:32,176:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:16:19,830:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 50887)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 50952)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 50998)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 58244)
+Traceback (most recent call last):
+  File "./configurator.py", line 3434, in do_GET
+    self.wfile.write(bytes(json.dumps(filedata), "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3438, in do_GET
+    self.wfile.write(bytes(content, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 58337)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 64876)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 65060)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 65229)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+INFO:2018-03-30 20:17:03,259:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:17:04,710:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:17:05,902:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:17:48,135:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:18:28,905:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:18:30,080:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:18:31,040:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:19:44,332:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:19:44,366:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:22:37,132:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:22:37,699:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:22:39,065:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:22:40,010:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:23:07,041:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:23:50,383:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:24:17,614:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:24:34,910:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:24:35,464:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:24:37,035:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:24:37,909:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:25:07,916:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:25:07,947:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:31:53,000:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:31:56,284:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:32:13,764:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:32:42,975:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/www HTTP/1.1" 200 -
+INFO:2018-03-30 20:32:45,738:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/www/custom_ui HTTP/1.1" 200 -
+INFO:2018-03-30 20:32:49,445:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/www/custom_ui/floorplan HTTP/1.1" 200 -
+INFO:2018-03-30 20:33:30,514:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/www/custom_ui/floorplan/lib HTTP/1.1" 200 -
+INFO:2018-03-30 20:33:34,035:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant/www/custom_ui/floorplan HTTP/1.1" 200 -
+INFO:2018-03-30 20:35:00,751:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:35:01,924:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:35:03,002:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:35:54,321:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:35:54,350:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:34,381:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:36,589:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:37,401:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:51,178:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:51,199:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:43:53,789:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:44:05,160:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:44:06,134:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:44:06,725:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:44:45,512:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:45:17,875:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:45:17,904:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 20:56:38,711:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:56:41,235:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:56:41,494:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:57:01,520:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:57:18,782:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 20:57:19,816:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 20:57:20,541:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 20:58:12,270:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 20:58:12,305:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 21:03:08,644:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 21:03:08,669:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 21:10:15,979:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 21:10:17,374:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 21:10:17,943:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 21:59:29,178:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 21:59:31,391:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 21:59:32,036:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 22:02:34,323:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:02:34,392:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:03:26,439:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:03:26,465:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:03:52,486:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:03:52,512:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:05:20,455:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:05:20,480:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:05:43,512:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:05:43,534:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:06:36,453:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:06:36,479:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:07:50,306:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:07:50,330:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:08:25,948:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:08:25,968:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:09:04,474:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:09:04,500:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:09:26,289:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:09:26,310:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 22:10:42,681:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:10:43,893:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:10:44,894:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 22:30:28,118:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:30:29,452:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:30:30,417:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 22:34:33,034:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:34:41,964:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan_2.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:34:44,614:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:43:23,663:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:43:25,215:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:43:25,893:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 22:44:16,545:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:44:53,075:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:45:20,333:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:45:34,066:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:45:34,584:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 22:45:35,425:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 22:45:36,350:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 22:46:25,386:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 22:46:25,445:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:02:50,375:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:02:52,660:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:02:52,839:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:03:26,392:__main__:192.168.1.82 - "POST /api/newfile HTTP/1.1" 200 -
+INFO:2018-03-30 23:03:26,450:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:03:30,499:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:05:35,075:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:05:35,107:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:05:42,960:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:10:32,327:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:10:33,699:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:10:34,500:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:12:41,099:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:12:41,124:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:12:47,200:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:02,432:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:02,464:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:30,109:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:31,420:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:32,256:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:13:58,533:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:14:24,746:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:14:41,236:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:14:41,268:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:06,164:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:07,697:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:08,515:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:25,491:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:25,517:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:15:32,059:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:16:17,635:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:16:17,662:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:16:41,753:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:16:43,430:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:16:43,986:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:18:21,429:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:18:21,455:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:19:33,997:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:19:35,305:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:19:36,314:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:28:50,616:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:28:52,371:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:28:52,858:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:09,273:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:09,319:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:32,601:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:33,743:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:34,444:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:31:58,392:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:33:10,554:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:33:10,581:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:33:56,883:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:33:58,229:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:33:58,805:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:34:20,172:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:34:31,549:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:40:00,043:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:40:00,077:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:40:40,017:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:40:41,655:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:40:42,520:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:41:35,267:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:41:35,296:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:42:09,486:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:42:10,834:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:42:11,637:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:42:45,483:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:42:45,508:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:43:11,126:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:43:12,764:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:43:13,515:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:45:33,890:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:45:35,231:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:45:35,854:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:46:05,036:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:46:05,058:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-30 23:50:57,340:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-30 23:50:58,968:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-30 23:50:59,939:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-30 23:52:49,397:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-30 23:52:49,424:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:05:30,171:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:05:31,921:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:05:32,391:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:07:12,664:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 49406)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 49566)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 49622)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 49662)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 60489)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 60530)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 60563)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------INFO:2018-03-31 00:08:04,249:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:08:50,711:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:09:49,777:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:09:51,494:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:09:52,335:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:10:22,620:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:10:22,659:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:11:20,408:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:11:20,453:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:24:42,344:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:24:44,910:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:24:45,666:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:25:33,075:__main__:192.168.1.82 - "POST /api/newfile HTTP/1.1" 200 -
+INFO:2018-03-31 00:25:33,108:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:26:13,100:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:27:10,804:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:30:24,214:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:30:24,241:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:31:18,941:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:31:20,486:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:31:21,364:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:31:32,531:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:31:32,552:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:32:44,578:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:32:46,608:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:32:51,000:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:32:52,511:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:32:53,296:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:33:25,336:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:33:25,362:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:33:50,285:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:33:51,599:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:33:52,399:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:34:09,950:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:38:24,215:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:38:24,241:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:38:47,114:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:38:48,465:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:38:49,516:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:46:29,661:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:46:29,690:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 00:47:34,612:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:47:36,036:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:47:36,849:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:47:49,701:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:49:30,986:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:49:51,150:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 00:49:52,650:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 00:49:53,329:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 00:50:32,736:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 00:50:32,766:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:00:25,778:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:00:27,780:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:00:28,571:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:00:55,321:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:00:55,355:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:01:28,014:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:01:29,070:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:01:29,970:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:02:03,664:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:02:03,689:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:14:00,521:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:15:22,930:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:15:22,969:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:21:46,549:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:21:46,572:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:26:22,259:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:26:24,756:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/customize.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:26:25,854:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:26:56,555:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:29:09,807:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:29:09,835:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:30:43,169:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:30:44,490:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:30:45,199:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:31:56,027:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:31:56,054:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:33:30,850:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:33:32,410:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:33:33,310:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:38:23,201:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:38:23,229:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:38:44,905:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:40:48,274:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:40:50,488:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:40:51,090:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:41:16,395:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:41:17,573:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:41:18,299:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:41:55,203:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 01:41:55,230:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 01:43:21,335:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:43:22,910:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:43:23,794:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:45:53,975:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:45:56,564:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:45:57,235:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:12,960:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:19,562:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:52,808:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:54,421:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:55,599:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 01:46:56,477:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:03:19,342:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:03:19,370:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:03:43,494:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:03:45,151:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:03:45,984:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:05,435:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:25,097:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:33,272:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:39,263:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:40,316:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:04:40,930:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:05:07,938:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:05:07,966:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:02,527:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:04,042:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:05,132:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:27,560:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:27,599:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:07:37,605:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:10:58,708:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:10:58,735:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:11:39,064:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:11:40,470:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:11:41,249:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:12:57,283:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:12:58,406:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:12:59,152:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:13:32,332:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:13:32,362:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:14:10,974:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:14:12,454:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:14:13,232:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:14:38,726:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:15:09,838:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:15:11,552:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:15:12,728:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:15:38,050:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:15:38,078:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:23:20,475:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:23:22,724:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:23:23,386:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:23:49,367:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:27:12,785:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:27:12,813:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 02:28:54,645:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 02:28:55,838:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 02:28:56,641:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 02:31:45,961:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 02:31:45,996:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 13:39:03,579:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 13:39:05,317:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:39:05,957:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 13:40:48,382:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 13:40:48,413:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 13:41:13,925:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 13:41:13,965:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 13:42:18,266:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 13:42:18,295:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 13:42:43,931:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 13:42:45,272:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:42:46,191:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 13:46:09,461:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 13:46:09,484:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:18,787:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:20,395:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:21,235:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:40,921:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:40,934:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:40,968:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:54:41,000:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:55:27,154:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 13:55:28,402:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 13:55:29,171:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:00:45,790:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:00:45,813:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:02:21,769:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:02:23,226:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:02:23,894:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:05:17,746:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:05:17,780:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:05:36,538:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:05:37,853:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:05:38,646:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:06:10,912:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:06:10,946:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:13,064:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:16,020:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:33,363:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:51,294:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:52,601:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:09:53,366:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:13:08,051:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:13:09,566:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:13:10,434:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:13:45,175:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:14:20,247:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:14:21,754:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:14:22,485:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:17:21,962:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:17:21,996:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:16,473:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:17,945:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:18,780:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:34,996:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:36,025:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/lights.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:18:36,726:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:19:07,006:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:19:16,696:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:20:09,618:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:20:20,585:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:20:22,324:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:20:22,965:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:21:15,454:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:21:15,495:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:21:58,602:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:22:02,326:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:22:03,362:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:22:29,625:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:23:00,617:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:24:29,979:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:25:16,124:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:25:17,444:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:25:18,181:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:26:55,522:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:26:55,554:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:00,608:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:39,044:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:39,064:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:57,766:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:58,916:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:27:59,754:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:49:42,851:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:49:46,600:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:49:47,741:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:51:46,780:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:51:46,842:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:51:56,224:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:52:17,064:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:52:17,099:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:53:43,738:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 14:53:45,030:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/floorplan.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:53:45,787:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 14:54:02,460:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:54:02,489:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 14:57:29,988:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:57:30,015:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:57:37,762:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:57:37,789:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 14:58:42,907:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 14:58:42,940:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 15:03:40,621:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:03:42,628:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:03:43,139:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:04:07,270:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 15:04:13,894:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 15:09:24,864:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:09:26,830:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:09:27,175:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:09:56,975:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:12:21,377:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:12:23,225:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:12:24,050:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:12:59,503:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:13:30,718:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:13:32,481:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:13:33,284:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:15:32,757:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:15:53,099:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:15:54,889:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:15:55,650:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:19:11,683:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 15:19:11,710:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 15:19:22,073:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 15:19:22,096:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 15:22:22,279:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:22:24,541:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:22:25,364:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:27:12,886:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:27:14,180:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:27:15,023:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:27:34,762:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:28:17,342:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:28:18,415:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:28:19,116:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:29:42,675:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:32:44,242:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:32:45,779:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:32:46,463:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:33:00,922:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:33:06,597:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/automations.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:40:03,559:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:42:00,207:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 15:42:01,969:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 15:42:02,686:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 15:42:29,506:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 15:42:29,536:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 16:17:10,448:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:17:13,080:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:17:13,477:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:18:28,392:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-31 16:18:51,866:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:18:53,533:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/home-assistant.log HTTP/1.1" 200 -
+INFO:2018-03-31 16:18:54,360:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:20:28,575:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:24:59,164:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:25:00,700:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:25:01,431:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:25:52,503:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:26:53,390:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:27:03,762:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:27:05,269:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:27:05,943:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:29:26,829:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 16:29:26,855:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:02,679:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:04,230:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:04,803:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:25,700:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:46,914:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:47,986:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:34:48,647:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:35:57,473:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 16:35:57,504:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 16:38:08,700:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:38:12,227:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:52:22,797:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:52:24,897:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:52:51,178:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:53:24,377:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:54:14,001:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:54:15,191:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:54:15,909:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 16:57:25,635:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 16:57:25,659:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 16:58:14,274:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 16:58:15,702:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 16:58:16,565:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 18:45:54,719:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 18:45:56,599:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 18:45:57,480:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 18:52:09,748:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 18:52:11,426:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 18:52:12,467:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 18:54:08,108:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 18:54:11,669:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 18:54:12,447:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:14:51,448:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:15:36,229:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:15:37,586:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:15:38,155:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:16:46,060:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 19:16:46,086:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 19:20:08,853:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:20:15,489:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:20:16,196:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:29:07,677:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 19:29:07,699:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 19:33:32,916:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:33:34,335:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:33:35,401:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:35:31,815:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:35:33,086:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:35:34,126:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:41:43,966:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:41:45,268:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:41:46,305:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:42:29,457:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 19:42:29,489:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 19:45:06,290:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 19:45:08,446:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 19:45:09,291:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 19:46:36,103:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 19:46:36,141:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 19:46:36,483:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 19:46:36,508:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:12:01,202:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:12:03,070:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/binary_sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:12:03,904:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:12:25,417:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:14:02,387:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:14:15,514:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+
+Exception happened during processing of request from ('192.168.1.82', 51020)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 51088)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 51147)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 59215)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 54325)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 54359)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 64302)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "./configurator.py", line 3644, in do_GET
+    self.wfile.write(bytes(html, "utf8"))
+  File "/usr/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.168.1.82', 64407)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+INFO:2018-03-31 20:14:16,173:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:14:20,271:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:14:21,959:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:14:23,334:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:15:36,653:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:15:36,681:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:17:26,756:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:17:28,659:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:17:29,146:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:17:44,716:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:18:02,589:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:18:03,621:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:18:04,420:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:22:51,887:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:22:51,917:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:24:09,007:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:24:09,031:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:25:12,460:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:25:12,486:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:30:26,957:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:30:29,471:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:30:29,971:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:33:14,012:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:33:14,040:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:37:07,518:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:38:04,360:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 20:38:04,398:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 20:41:45,924:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:41:47,378:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:41:48,090:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 20:59:51,389:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 20:59:52,859:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 20:59:53,622:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 21:00:18,051:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 21:43:30,124:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 21:43:32,067:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 21:43:32,640:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 21:50:03,631:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 21:51:16,843:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 21:51:18,236:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 21:51:19,061:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 21:52:43,276:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 21:52:43,311:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:00:22,585:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:00:24,189:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:00:24,975:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:00:46,717:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:02:39,614:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:02:40,945:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:02:41,724:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:07:35,952:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 22:07:35,980:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:09:28,394:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:09:30,144:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:09:31,060:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:10:41,891:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 22:10:41,921:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:13:30,464:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:13:32,325:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:13:33,091:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:15:08,626:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 22:15:08,670:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:20,251:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:24,115:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:24,182:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:52,237:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:55,206:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:18:56,055:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:20:19,564:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:22:56,797:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 22:22:56,832:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:30:29,651:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:30:31,260:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:30:31,833:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:32:10,779:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-03-31 22:32:10,807:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-03-31 22:36:13,801:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:36:34,782:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:36:36,597:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:36:38,124:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:36:39,286:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:44:22,497:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:44:24,832:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:44:25,338:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-03-31 22:46:09,877:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-03-31 22:46:11,061:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-03-31 22:46:11,876:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-01 00:13:09,167:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-01 00:13:10,713:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-04-01 00:13:11,345:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 15:32:51,985:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 15:32:54,059:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 15:32:54,995:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 15:33:22,174:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 15:33:45,508:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 15:33:46,769:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 15:33:47,674:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 15:36:36,885:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 15:37:23,960:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 15:37:25,287:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 15:37:25,934:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 17:44:48,042:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 17:44:51,510:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 17:45:15,950:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 19:50:11,030:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 19:50:12,907:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/configuration.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 19:50:13,161:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 19:52:03,277:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 19:52:40,484:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 19:52:42,519:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 19:52:42,710:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 19:53:38,569:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-04-02 19:53:38,591:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-04-02 19:55:55,060:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 19:55:56,630:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/groups.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 19:55:57,157:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 22:14:40,568:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 22:27:36,073:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 22:27:38,075:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 22:27:38,940:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 22:50:36,949:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 22:50:38,150:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 22:50:38,951:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 22:54:58,328:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-04-02 22:54:58,359:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-04-02 22:59:49,333:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 22:59:51,735:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 22:59:52,402:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 23:03:41,775:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 23:03:43,836:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 23:03:44,937:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 23:04:15,216:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-04-02 23:04:15,256:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -
+INFO:2018-04-02 23:11:00,510:__main__:192.168.1.82 - "GET / HTTP/1.1" 200 -
+INFO:2018-04-02 23:11:01,994:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/switches.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 23:11:02,500:__main__:192.168.1.82 - "GET /api/listdir?path=. HTTP/1.1" 200 -
+INFO:2018-04-02 23:11:39,164:__main__:192.168.1.82 - "GET /api/file?filename=/home/homeassistant/.homeassistant/sensors.yaml HTTP/1.1" 200 -
+INFO:2018-04-02 23:14:44,319:__main__:192.168.1.82 - "POST /api/save HTTP/1.1" 200 -
+INFO:2018-04-02 23:14:44,344:__main__:192.168.1.82 - "GET /api/listdir?path=/home/homeassistant/.homeassistant HTTP/1.1" 200 -

@@ -1,0 +1,15 @@
+platform: group
+name:All Lights:
+entities:
+ - light.hallway
+ - light.living_room
+ - light.living
+ - light.patio
+ - light.dining
+ - light.kitchen
+ - light.kitchen2
+ - light.family
+ - light.family2
+ - light.bath
+ - light.bath2
+ - light.bath3

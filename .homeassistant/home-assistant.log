@@ -1,0 +1,203 @@
+2018-04-02 22:56:46 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2018-04-02 22:56:53 WARNING (SyncWorker_0) [netdisco.ssdp] Error fetching description at http://192.168.1.96:49152/wps_device.xml
+2018-04-02 22:56:57 ERROR (SyncWorker_1) [homeassistant.components.hue] Error connecting to the Hue bridge at 192.168.1.152
+2018-04-02 22:57:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 22:57:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 22:57:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 22:57:19 ERROR (SyncWorker_3) [homeassistant.util.package] Unable to install package pychromecast==2.0.0: Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/shutil.py", line 544, in move
+    os.rename(src, real_dst)
+PermissionError: [Errno 13] Permission denied: '/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc' -> '/tmp/pip-ctzfikhm-uninstall/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/basecommand.py", line 209, in main
+    status = self.run(options, args)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/commands/install.py", line 335, in run
+    prefix=options.prefix_path,
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_set.py", line 726, in install
+    requirement.uninstall(auto_confirm=True)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_install.py", line 747, in uninstall
+    paths_to_remove.remove(auto_confirm)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_uninstall.py", line 115, in remove
+    renames(path, new_path)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/utils/__init__.py", line 267, in renames
+    shutil.move(old, new)
+  File "/usr/lib/python3.6/shutil.py", line 559, in move
+    os.unlink(src)
+PermissionError: [Errno 13] Permission denied: '/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc'
+2018-04-02 22:57:19 ERROR (MainThread) [homeassistant.requirements] Not initializing media_player.cast because could not install requirement pychromecast==2.0.0
+2018-04-02 22:57:19 ERROR (MainThread) [homeassistant.setup] Unable to prepare setup for platform media_player.cast: Could not install all requirements.
+2018-04-02 22:57:23 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 22:57:33 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 22:57:38 ERROR (SyncWorker_13) [homeassistant.util.package] Unable to install package pychromecast==2.0.0: Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/shutil.py", line 544, in move
+    os.rename(src, real_dst)
+PermissionError: [Errno 13] Permission denied: '/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc' -> '/tmp/pip-ep2if0zc-uninstall/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/basecommand.py", line 209, in main
+    status = self.run(options, args)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/commands/install.py", line 335, in run
+    prefix=options.prefix_path,
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_set.py", line 726, in install
+    requirement.uninstall(auto_confirm=True)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_install.py", line 747, in uninstall
+    paths_to_remove.remove(auto_confirm)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/req/req_uninstall.py", line 115, in remove
+    renames(path, new_path)
+  File "/srv/homeassistant/lib/python3.6/site-packages/pip/utils/__init__.py", line 267, in renames
+    shutil.move(old, new)
+  File "/usr/lib/python3.6/shutil.py", line 559, in move
+    os.unlink(src)
+PermissionError: [Errno 13] Permission denied: '/srv/homeassistant/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc'
+2018-04-02 22:57:38 ERROR (MainThread) [homeassistant.requirements] Not initializing media_player.cast because could not install requirement pychromecast==2.0.0
+2018-04-02 22:57:38 ERROR (MainThread) [homeassistant.setup] Unable to prepare setup for platform media_player.cast: Could not install all requirements.
+2018-04-02 22:57:53 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:01:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:01:43 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:03:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:03:43 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:04:56 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:05:06 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:06:06 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:07:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:12:48 WARNING (MainThread) [homeassistant.components.media_player] Setup of platform directv is taking over 10 seconds.
+2018-04-02 23:13:38 ERROR (MainThread) [homeassistant.components.media_player] Setup of platform directv is taking longer than 60 seconds. Startup will proceed without waiting any longer.
+2018-04-02 23:18:32 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:18:46 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:18:46 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:18:46 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:18:46 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:19:25 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:19:32 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:19:32 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:19:32 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-02 23:19:35 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:35:56 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:35:56 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:35:56 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:36:42 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:36:53 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:37:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:37:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:37:43 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:38:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:38:13 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:38:33 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:38:43 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:41:02 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:41:22 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 17:42:23 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:12:54 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:14 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:14 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:14 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:14 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:34 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:34 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:34 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:13:34 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:14:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:14:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:14:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:14:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:07 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:07 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:07 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:07 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:17 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:17 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:17 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:37 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:59 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:59 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:15:59 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:16:09 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:16:09 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:16:09 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:16:09 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:17:00 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:17:00 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:18:19 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:19:49 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:19:50 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:19:50 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:19:50 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:21:19 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:21:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:21:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-03 19:21:20 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:48 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:48 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:48 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:48 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:58 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:58 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:16:58 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:17:31 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:17:31 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:17:31 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 17:17:31 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:45:12 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:45:12 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:45:12 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:45:12 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:47:39 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:47:39 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:47:39 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 18:47:39 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 20:57:25 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 20:57:30 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 20:57:30 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 20:57:30 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-04 23:11:07 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/selector_events.py", line 724, in _read_ready
+    data = self._sock.recv(self.max_size)
+TimeoutError: [Errno 110] Connection timed out
+2018-04-06 17:17:26 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:17:26 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:17:26 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:18:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:18:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:18:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:18:03 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:21:36 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:21:36 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:21:36 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 17:21:36 ERROR (MainThread) [homeassistant.components.camera.generic] Timeout getting camera image
+2018-04-06 20:38:10 WARNING (MainThread) [homeassistant.components.cloud.iot] Connection closed: Connection error
+2018-04-06 20:38:15 WARNING (MainThread) [homeassistant.components.cloud.iot] Unable to refresh token: Rate exceeded
+2018-04-06 20:38:21 WARNING (MainThread) [homeassistant.components.cloud.iot] Unable to refresh token: Rate exceeded
+2018-04-06 20:38:32 WARNING (MainThread) [homeassistant.components.cloud.iot] Unable to refresh token: Rate exceeded

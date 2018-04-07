@@ -1,0 +1,71 @@
+## Switch Setups
+  - platform: mqtt
+    name: "Bedroom SONOFF Switch"
+    state_topic: "stat/bedroom/switch/POWER"
+    command_topic: "cmnd/bedroom/switch/POWER"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 1
+    retain: true
+    
+  - platform: mqtt
+    name: "Kitchen Overhead Switch"
+    state_topic: "homeassistant/kitchen/switch1/state"
+    command_topic: "homeassistant/kitchen/switch1/set"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true
+    
+  - platform: mqtt
+    name: "Livingroom Lamp"
+    state_topic: "homeassistant/lvr/switch1/state"
+    command_topic: "homeassistant/lvr/switch1/set"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true
+    
+  - platform: mqtt
+    name: "Living Room Switch"
+    state_topic: "homeassistant/lvr/switch2/state"
+    command_topic: "home/lvr/switch2/set"
+    availability_topic: "homeassistant/lvr/switch2/available"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true
+    
+  - platform: mqtt
+    name: "Bedroom 1 Switch"
+    state_topic: "homeassistant/bedroom1/switch/state"
+    command_topic: "homeassistant/bedroom1/switch/set"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true    
+    
+  - platform: mqtt
+    name: "Bedroom 2 Switch"
+    state_topic: "homeassistant/bedroom2/switch/state"
+    command_topic: "homeassistant/bedroom2/switch/set"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true        
+    
+  - platform: mqtt
+    name: "Bedroom 3 Switch"
+    state_topic: "homeassistant/bedroom3/switch/state"
+    command_topic: "homeassistant/bedroom3/switch/set"
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: false
+    qos: 0
+    retain: true        
